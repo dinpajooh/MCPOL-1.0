@@ -6,3 +6,5 @@ properties of interest such as solvent reorganization energies and structure fac
 is available in serial and parallel versions, where Message Passing Interface (MPI) is used for
 parallelization. In the current version, only the canonical (NV T) ensemble is implemented
 for hard-sphere solutes and solvents.
+
+See more info at: http://theochemlab.asu.edu/
